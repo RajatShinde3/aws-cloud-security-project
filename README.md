@@ -1,11 +1,10 @@
 # AWS Academy lab: Securing and Monitoring Resources with AWS
 
-This project is part of the `Cloud Infrastructure Security Course` in the `Cybersecurity Specialization` at [CESAR School](https://cesar.school/).
+This project is part of the `Coursera` in the `Cloud Cybersecurity Specialization`.
 
 The tasks are from `AWS Academy` lab: `Securing and Monitoring Resources with AWS`. It focus on securing AWS resources such as S3, VPCs, and implementing encryption with AWS KMS, along with monitoring and logging using AWS CloudTrail, CloudWatch, and AWS Config.
 
-Student: `Pedro Coelho`  
-Instructor: `Ioram Sette`
+Made By: `Rajat Shinde`  
 
 **Table of Contents**
 
